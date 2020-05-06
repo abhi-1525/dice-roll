@@ -1,5 +1,6 @@
 import random
 print("Lets start \n")
+s=0
 a='y'
 while(a=='y'):
 
